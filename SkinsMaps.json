@@ -3,23 +3,23 @@
       
     "AdNetwork"              : "admob",
     
-    "AdMob_ID"               : "pub-3940256099942544",
+    "AdMob_ID"               : "",
     "AdMob_Banner"           : "",
-    "AdMob_InterstitialAd"   : "ca-app-pub-3940256099942544/1033173712",
+    "AdMob_InterstitialAd"   : "",
     "AdMob_RewardAd"         : "",
     "AdMob_Native"           : "",
     
-    "Applovin_Banner"        : "a5f235ba1320fb35",
-    "Applovin_InterstitialAd": "d5a67a7b679c9a38",
-    "Applovin_RewardAd"      : "a5f235ba1320fb35",
-    "Applovin_Native"        : "a5f235ba1320fb35",
+    "Applovin_Banner"        : "",
+    "Applovin_InterstitialAd": "",
+    "Applovin_RewardAd"      : "",
+    "Applovin_Native"        : "",
 
     "Unity_GameID"           : "4076527",
     "Unity_Banner"           : "BannerAd",
     "Unity_InterstitialAd"   : "InterstitialAd",
     "Unity_RewardAd"         : "rewardedVideo",
     
-    "IronSourceKey"          : "1197d7c85"
+    "IronSourceKey"          : ""
   },
   
   "Skins" :[
