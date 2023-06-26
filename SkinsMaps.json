@@ -3,9 +3,9 @@
       
     "AdNetwork"              : "admob",
     
-    "AdMob_ID"               : "",
+    "AdMob_ID"               : "ca-app-pub-9165714244684564~1930712817",
     "AdMob_Banner"           : "",
-    "AdMob_InterstitialAd"   : "",
+    "AdMob_InterstitialAd"   : "ca-app-pub-9165714244684564/9617631141",
     "AdMob_RewardAd"         : "",
     "AdMob_Native"           : "",
     
@@ -14,7 +14,7 @@
     "Applovin_RewardAd"      : "",
     "Applovin_Native"        : "",
 
-    "Unity_GameID"           : "4076527",
+    "Unity_GameID"           : "",
     "Unity_Banner"           : "BannerAd",
     "Unity_InterstitialAd"   : "InterstitialAd",
     "Unity_RewardAd"         : "rewardedVideo",
